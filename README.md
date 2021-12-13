@@ -2,6 +2,8 @@
 
 Integrantes:
 
-Arielly
-Guilherme Ledier
-Gustavo de Oliveira
+echo(Arielly);
+
+echo(Guilherme Ledier);
+
+echo(Gustavo de Oliveira)
